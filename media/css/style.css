@@ -27,6 +27,7 @@ nav li {
    
 }
 
+
 nav a {
     text-transform: uppercase;
     color: #800080;
@@ -48,12 +49,14 @@ nav a:hover{
 .playstation-font{
 	color:#0000ff ;
 }
+
 .playstation-links a{
 	text-decoration:none;
 	color:#0000ff;
 	font-weight: bold;
 	font-size: 20px;
 }
+
 .playstation-links a:hover{
 	color: #000000;
 }
@@ -121,6 +124,27 @@ main img{
     background:;
 }
 
+.destaque1 img:hover{
+	border-left: 2px solid #0000ff;
+	-webkit-filter:grayscale(50%);
+}
+
+.destaque2 img:hover{
+	border-top: 2px solid #0000ff;
+	-webkit-filter:grayscale(50%);
+}
+
+.destaque3 img:hover{
+	border-right: 2px solid #0000ff;
+	-webkit-filter:grayscale(50%);
+}
+
+.destaque4 img:hover{
+	border-bottom: 2px solid #0000ff;
+	-webkit-filter:grayscale(50%);
+}
+
+
 .destaques li{
 	display: inline-block;
     text-align: center;
@@ -132,16 +156,14 @@ main img{
     box-sizing: border-box;
 }
 
-.titulo a{
-	color: #800080;
+.destaques p{
+	text-align: justify;
+	font-size: 16px;
 	font-weight: bold;
-	text-decoration: none;
 }
-.titulo a:hover{
-	color: #000000;
-}
-
-
 footer{
+	width: 100$;
 	text-align: center;
+	border-top: 1px solid #000000;
+	padding: 20px 0;
 }
