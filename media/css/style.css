@@ -1,0 +1,145 @@
+body{
+		font-family:arial;
+}
+
+header {
+    background:;
+    padding: 20px 0;
+}
+
+
+
+.caixa-menu{
+        position: relative;
+        width: 940px;
+        margin: 0 auto;
+    }
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+   
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #800080;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+nav a:hover{
+	color: #000000;
+}
+
+.linha{
+	width: 100%;
+	background: #ffffff;
+	border-bottom: 1px solid #000000;
+	margin-top: 20px;
+}
+
+.playstation-font{
+	color:#0000ff ;
+}
+.playstation-links a{
+	text-decoration:none;
+	color:#0000ff;
+	font-weight: bold;
+	font-size: 20px;
+}
+.playstation-links a:hover{
+	color: #000000;
+}
+
+.xbox-font{
+	color:#228822;
+}
+.xbox-links a{
+	text-decoration:none;
+	color:#228822;
+	font-weight: bold;
+	font-size: 20px;
+}
+.xbox-links a:hover{
+	color: #000000;
+}
+
+.nintendo-font{
+	color:#ff0000;
+}
+.nintendo-links a{
+	text-decoration:none;
+	color:#ff0000;
+	font-weight: bold;
+	font-size: 20px;
+}
+.nintendo-links a:hover{
+	color: #000000;
+}
+
+.pc-font{
+	color:#EEE8AA;
+}
+.pc-links a{
+	text-decoration:none;
+	color:#EEE8AA;
+	font-weight: bold;
+	font-size: 20px;
+}
+.pc-links a:hover{
+	color: #000000;
+}
+
+main{
+	width: 940px;
+	background:;
+	margin: 0 auto;	
+}
+
+main h2{
+	font-size: 20px;
+	font-weight: bold;
+	padding: 5px;
+}
+
+main img{
+	width: 259px;
+	height: 220px;
+}
+
+.destaques{
+	    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0px;
+    background:;
+}
+
+.destaques li{
+	display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    background:;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+}
+
+.titulo a{
+	color: #800080;
+	font-weight: bold;
+	text-decoration: none;
+}
+.titulo a:hover{
+	color: #000000;
+}
+
+
+
