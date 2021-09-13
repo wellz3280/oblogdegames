@@ -85,11 +85,11 @@ nav a:hover{
 }
 
 .pc-font{
-	color:#EEE8AA;
+	color:#Daa520;
 }
 .pc-links a{
 	text-decoration:none;
-	color:#EEE8AA;
+	color:#Daa520;
 	font-weight: bold;
 	font-size: 20px;
 }
@@ -142,4 +142,6 @@ main img{
 }
 
 
-
+footer{
+	text-align: center;
+}
