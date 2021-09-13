@@ -124,24 +124,13 @@ main img{
     background:;
 }
 
-.destaque1 img:hover{
-	border-left: 2px solid #0000ff;
-	-webkit-filter:grayscale(50%);
+.destaques img{
+	
 }
-
-.destaque2 img:hover{
-	border-top: 2px solid #0000ff;
-	-webkit-filter:grayscale(50%);
-}
-
-.destaque3 img:hover{
-	border-right: 2px solid #0000ff;
-	-webkit-filter:grayscale(50%);
-}
-
-.destaque4 img:hover{
-	border-bottom: 2px solid #0000ff;
-	-webkit-filter:grayscale(50%);
+.destaques img:hover{
+	
+	 -webkit-filter:grayscale(100%);
+    transition: 1s;
 }
 
 
