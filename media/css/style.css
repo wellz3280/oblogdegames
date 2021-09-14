@@ -100,6 +100,16 @@ nav a:hover{
 	color: #000000;
 }
 
+.titulo-destaque{
+	padding: 20px;
+	width: 400px;
+}
+.titulo-destaque h2{
+	font-size: 30px;
+	color: blue;
+	font-weight: bold;
+}
+
 main{
 	width: 940px;
 	background:;
@@ -122,10 +132,6 @@ main img{
     margin: 0 auto;
     padding: 50px 0px;
     background:;
-}
-
-.destaques img{
-	
 }
 .destaques img:hover{
 	
